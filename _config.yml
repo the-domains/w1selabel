@@ -1,0 +1,28 @@
+name: w1selabel
+favicon: null
+layout_spectrum: 0.4802056676708162
+typography_spectrum: 0.724783222656697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9880614830181003
+  lightness: 0.8830061906483024
+  saturation: 0.25418264837935567
+  rhythmicContrast: 0.8939436487853527
+purpose: []
